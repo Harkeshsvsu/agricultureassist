@@ -1,0 +1,40 @@
+ /* Add your custom CSS styles here */
+ header {
+    background-color: #007bff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-title {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header-links {
+    display: flex;
+    gap: 20px;
+}
+
+.header-links a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+}
+pre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+img{
+    width: 1200px;
+    align-items: center;
+    padding: 150px; 
+}
